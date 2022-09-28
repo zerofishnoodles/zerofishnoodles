@@ -1,6 +1,8 @@
 ### 👋 About Me
 Hi there, this is **Rui Zhang**. Please feel free to contact me: rui.zhangchn@qq.com
 
+I'm currently looking for PhD position, here is my [CV]()
+
 **:mortar_board: Education** 
 - **Bachelor** · [HUST](https://hust.edu.cn/) · Computer Science · *Sep.2019-June.2023*
 - **Summer School** · [NUS](https://www.nus.edu.sg/) · Computer Science · *May.2020-Aug.2020*
