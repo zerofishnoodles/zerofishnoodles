@@ -11,7 +11,7 @@ Hi there, this is **Rui Zhang**. Please feel free to contact me: rui.zhangchn@qq
 
 **🔬 Research Interest**
 
-&ensp; Mlsys, HPC, AL, ML, Graph
+&ensp; Mlsys, Distributed System, HPC, AL, ML, Graph
 
 <!--
 **zerofishnoodles/zerofishnoodles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
