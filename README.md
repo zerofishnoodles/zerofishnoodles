@@ -2,8 +2,8 @@
 Hi there, this is **Rui Zhang**. Please feel free to contact me: rui.zhangchn@qq.com
 
 **:mortar_board: Education** 
-- 🇨🇳·**Bachelor** · [HUST](https://hust.edu.cn/) · Computer Science · *Sep.2019-June.2023*
-- SG·**Summer School** · [NUS](https://www.nus.edu.sg/) · Computer Science · *May.2020-Aug.2020*
+- **Bachelor** · [HUST](https://hust.edu.cn/) · Computer Science · *Sep.2019-June.2023*
+- **Summer School** · [NUS](https://www.nus.edu.sg/) · Computer Science · *May.2020-Aug.2020*
 
 **:city_sunrise: Experience**
 - **SDE Intern** · [Bosch](https://www.bosch.com/) · *July.2022-Dec.2022*
