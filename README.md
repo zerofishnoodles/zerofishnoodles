@@ -1,7 +1,7 @@
 ### 👋 About Me
 Hi there, this is **Rui Zhang**. Please feel free to contact me: rui.zhangchn@qq.com
 
-I'm currently looking for PhD position, here is my [CV](./CV-Zhang%20Rui-2.0.pdf)
+I'm currently looking for PhD position, here is my [CV](./CV-Zhang%20Rui-3.0.pdf)
 
 **:mortar_board: Education** 
 - **Bachelor** · [HUST](https://hust.edu.cn/) · Computer Science · *Sep.2019-June.2023*
