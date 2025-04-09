@@ -1,13 +1,14 @@
 ### 👋 About Me
-Hi there, this is **Rui Zhang**. Please feel free to contact me: rui.zhangchn@qq.com
+Hi there, this is **Rui Zhang**. Please feel free to contact me: rzhan229@ucsc.edu
 
-I'm currently looking for PhD position, here is my [CV](./CV-Zhang%20Rui-3.0.pdf)
+I'm currently a PhD student in UCSC. My research interests are mainly about system for ML/AI, recently I am working on model serving/inferencing system. 
 
 **:mortar_board: Education** 
 - **Bachelor** · [HUST](https://hust.edu.cn/) · Computer Science · *Sep.2019-June.2023*
 - **Summer School** · [NUS](https://www.nus.edu.sg/) · Computer Science · *May.2020-Aug.2020*
 
 **:city_sunrise: Experience**
+- **Full-time SDE** · [Huawei](https://www.huawei.com/en/) · *Aug.2023-Aug.2024*
 - **SDE Intern** · [Bosch](https://www.bosch.com/) · *July.2022-Dec.2022*
 - **Research Intern** · [HUST](https://hust.edu.cn/) · [CGCL](http://grid.hust.edu.cn/) · *Feb.2021-Dec.2022*
 
