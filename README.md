@@ -14,7 +14,7 @@ I'm currently a PhD student in UCSC. My research interests are mainly about syst
 
 **🔬 Research Interest**
 
-&ensp; Mlsys, Distributed System, HPC, AL, ML, Graph
+&ensp; Mlsys, Distributed System, HPC, AI, ML, Graph
 
 <!--
 **zerofishnoodles/zerofishnoodles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
