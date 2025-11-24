@@ -9,7 +9,8 @@ I'm currently a PhD student in UCSC. My research interests are mainly about syst
 - **Summer School** · [NUS](https://www.nus.edu.sg/) · Computer Science · *May.2020-Aug.2020*
 
 **:city_sunrise: Experience**
-- **SDE Intern** · [LMCache&vLLM Production Stack](https://github.com/LMCache/LMCache) · *Jun.2025-Present*
+- **Founding Engineer** · [Tensormesh](https://www.tensormesh.ai) · *Sep.2025-Present*
+- **SDE Intern** · [LMCache&vLLM Production Stack](https://github.com/LMCache/LMCache) · *Jun.2025-Sep.2025*
 - **Full-time SDE** · [Huawei](https://www.huawei.com/en/) · *Aug.2023-Aug.2024*
 - **SDE Intern** · [Bosch](https://www.bosch.com/) · *July.2022-Dec.2022*
 - **Research Intern** · [HUST](https://hust.edu.cn/) · [CGCL](http://grid.hust.edu.cn/) · *Feb.2021-Dec.2022*
